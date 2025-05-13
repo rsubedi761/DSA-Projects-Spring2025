@@ -1,6 +1,6 @@
 # 🌳 Project – Heap & Binary Search Tree Testing (Spring 2025)
 
-This project focuses on **testing and understanding tree data structures**: Heaps and Binary Search Trees (BSTs). You'll write **JUnit test cases** for a pre-written Priority Queue (Heap) and a Binary Search Tree implementation. This project strengthens your ability to read and test existing code, connect theory to implementation, and write meaningful tests for data structures you may not have written yourself.
+This project focuses on **testing and understanding tree data structures**: Heaps and Binary Search Trees (BSTs). I wrote **JUnit test cases** for a pre-written Priority Queue (Heap) and a Binary Search Tree implementation. This project strengthened my ability to read and test existing code, connect theory to implementation, and write meaningful tests for data structures I had not written before.
 
 ---
 
